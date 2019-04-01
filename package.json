@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Menvia Developer",
+    "email": "developer@menvia.com",
+    "url": "https://menvia.com"
+  },
+  "bugs": {
+    "url": "https://github.com/menvia/farol-extension-registration-custom/issues"
+  },
+  "description": "Farol Extension - Lahar",
+  "homepage": "https://github.com/menvia/farol-extension-registration-custom#readme",
+  "keywords": [
+    "farol",
+    "extension",
+    "lahar"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "farol-extension-registration-custom",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/menvia/farol-extension-registration-custom.git"
+  },
+  "scripts": {
+    "postversion": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1",
+  "dependencies": {
+    "request-promise": "^4.2.4"
+  }
+}

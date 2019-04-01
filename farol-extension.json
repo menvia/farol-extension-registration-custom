@@ -1,0 +1,11 @@
+{
+  "name": "Custom integration",
+  "description": {
+    "en": "Farol Extension to integrate with Custom registration services",
+    "pt": "Extensão do Farol para integrar com os serviços customizados de inscrição",
+    "es": "Extensión de Farol para integrarse con los servicios customizados de inscripcíon"
+  },
+  "icon": "icon.png",
+  "type": "registration",
+  "schema": []
+}
