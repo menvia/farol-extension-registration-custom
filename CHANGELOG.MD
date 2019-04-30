@@ -1,5 +1,14 @@
+## 1.0.2 / 2019.04.30
+
+#### Fix
+
+- add a test to birthdate before trying to split it
+
+
+
 ## 1.0.0 / 2019.03.19
 
 #### Enhancement
 
 - First version
+
