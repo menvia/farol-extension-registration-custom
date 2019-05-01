@@ -1,3 +1,10 @@
+## 1.0.4 / 2019.05.01
+
+#### Fix
+
+- source companyName field from details.badge_company_name
+
+
 ## 1.0.2 / 2019.04.30
 
 #### Fix

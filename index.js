@@ -18,7 +18,7 @@ module.exports = extension => {
           typeof registration.user.details.birthday === "string"
             ? registration.user.details.birthday.split("T")[0]
             : undefined,
-        companyName: registration.user.details.company,
+        companyName: registration.user.details.badge_company_name,
         companyJob: registration.user.details.role,
         preRegistration: registration._id
       })
