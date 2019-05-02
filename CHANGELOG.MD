@@ -1,3 +1,10 @@
+## 1.0.5 / 2019.05.02
+
+#### Change
+
+- source preRegistration field from registration.user._id
+
+
 ## 1.0.4 / 2019.05.01
 
 #### Fix

@@ -20,7 +20,7 @@ module.exports = extension => {
             : undefined,
         companyName: registration.user.details.badge_company_name,
         companyJob: registration.user.details.role,
-        preRegistration: registration._id
+        preRegistration: registration.user._id
       })
     });
 
