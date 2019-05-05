@@ -5,10 +5,10 @@
 ### Using NPM
 
 - To install, run:
-  `npm install farol-extension-contact-lahar`
+  `npm install farol-extension-registration-custom`
 
 - To update, run:
-  `npm update farol-extension-contact-lahar`
+  `npm update farol-extension-registration-custom`
 
 ## Develop
 
@@ -16,7 +16,7 @@
 
 Use `npm link` in the API project repository inside the extensions folder in order to store the link name and path in NPM.
 
-On the project used to develop the library you can run `npm link farol-extension-contact-lahar` and it will start using the development version from your API.
+On the project used to develop the library you can run `npm link farol-extension-registration-custom` and it will start using the development version from your API.
 
 ## Publish
 
